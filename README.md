@@ -11,15 +11,15 @@ no está disponible.
 
 [Descargar la versión más reciente](https://github.com/elx19/ArbyPos-Releases/releases/latest)
 
-## Vistas actuales de ArbyPos v0.2.0
+## Vistas actuales de ArbyPos v0.2.1
 
 ### Panel principal
 
-![Panel principal de ArbyPos v0.2.0](assets/arbypos-dashboard-v020.png)
+![Panel principal de ArbyPos v0.2.1](assets/arbypos-dashboard-v021.png)
 
 ### Inicio de sesión
 
-![Inicio de sesión de ArbyPos v0.2.0](assets/arbypos-login-v020.png)
+![Inicio de sesión de ArbyPos v0.2.1](assets/arbypos-login-v021.png)
 
 ## Funciones principales
 
@@ -98,6 +98,7 @@ JrTech antes de activar una licencia.
 | --- | --- | --- |
 | `v0.1.0` | Disponible | Primera versión pública para Windows con POS, inventario, compras, caja, reportes, roles, licencias, impresión y actualizaciones |
 | `v0.2.0` | Disponible | Detección automática de PCs, sincronización segura por código privado, POS móvil real, SQLite v15 y nuevo fondo de acceso |
+| `v0.2.1` | Disponible | Navegación que vuelve al inicio de cada pantalla y estado neutral cuando todavía no hay productos |
 
 Consulta [VERSIONES.md](VERSIONES.md) para conocer el contenido detallado y las
 correcciones de cada publicación.

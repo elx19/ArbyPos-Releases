@@ -2,6 +2,18 @@
 
 Este documento describe el contenido funcional de cada versión pública de ArbyPos.
 
+## v0.2.1 — 15 de julio de 2026
+
+### Interfaz
+
+- Cada pantalla vuelve al inicio al navegar desde una vista larga, por lo que el encabezado y los controles principales permanecen visibles.
+- El dashboard muestra el estado neutral **Sin productos** cuando el inventario está vacío, en lugar de indicar estabilidad total.
+
+### Validación
+
+- Se añadieron pruebas automatizadas de regresión para ambos comportamientos.
+- La versión fue comprobada mediante instalación aislada, dos arranques, persistencia SQLite, impresión, sincronización LAN/QR móvil y desinstalación.
+
 ## v0.2.0 — 15 de julio de 2026
 
 ### Red local
@@ -68,4 +80,3 @@ Primera versión pública instalable de ArbyPos para Windows.
 - Selección automática del transporte de impresión.
 - Logo del negocio y foto del usuario cargados desde almacenamiento local.
 - Navegación agrupada para administración, soporte e información legal.
-
