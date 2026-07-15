@@ -1,6 +1,8 @@
-# ArbyPos
+# ArbyPos Releases
 
 Canal oficial de instaladores y actualizaciones de ArbyPos para Windows.
+
+## ArbyPos para Windows
 
 ArbyPos es un sistema de punto de venta para comercios que reúne ventas, caja,
 inventario, compras, clientes, proveedores, reportes, impresión y control de usuarios
