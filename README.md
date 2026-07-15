@@ -97,7 +97,7 @@ JrTech antes de activar una licencia.
 | Versión | Estado | Contenido principal |
 | --- | --- | --- |
 | `v0.1.0` | Disponible | Primera versión pública para Windows con POS, inventario, compras, caja, reportes, roles, licencias, impresión y actualizaciones |
-| `v0.2.0` | En preparación | Detección automática de PCs, sincronización segura por código privado, POS móvil real, SQLite v15 y nuevo fondo de acceso |
+| `v0.2.0` | Disponible | Detección automática de PCs, sincronización segura por código privado, POS móvil real, SQLite v15 y nuevo fondo de acceso |
 
 Consulta [VERSIONES.md](VERSIONES.md) para conocer el contenido detallado y las
 correcciones de cada publicación.
