@@ -2,7 +2,7 @@
 
 Este documento describe el contenido funcional de cada versión pública de ArbyPos.
 
-## v0.2.0 — En preparación
+## v0.2.0 — 15 de julio de 2026
 
 ### Red local
 
