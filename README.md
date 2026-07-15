@@ -11,9 +11,15 @@ no está disponible.
 
 [Descargar la versión más reciente](https://github.com/elx19/ArbyPos-Releases/releases/latest)
 
-## Vista del sistema
+## Vistas actuales de ArbyPos v0.2.0
 
-![Panel principal de ArbyPos](assets/arbypos-dashboard.png)
+### Panel principal
+
+![Panel principal de ArbyPos v0.2.0](assets/arbypos-dashboard-v020.png)
+
+### Inicio de sesión
+
+![Inicio de sesión de ArbyPos v0.2.0](assets/arbypos-login-v020.png)
 
 ## Funciones principales
 
@@ -157,4 +163,3 @@ Desarrollado por **JrTech**.
 
 Al solicitar ayuda, indica la versión de ArbyPos, la edición de Windows y una descripción
 clara del inconveniente. Nunca envíes contraseñas o códigos privados de la red.
-
