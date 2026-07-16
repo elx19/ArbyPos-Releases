@@ -2,6 +2,23 @@
 
 Este documento describe el contenido funcional de cada versión pública de ArbyPos.
 
+## v0.2.2 — 16 de julio de 2026
+
+### Interfaz y ayuda
+
+- Política de privacidad y Acuerdo de licencia disponibles únicamente dentro de Ayuda.
+- Eliminadas las rutas y accesos duplicados fuera del centro de ayuda.
+
+### Distribución
+
+- Instalador Windows x64 actualizado con las mejoras acumuladas de ventas, inventario,
+  caja, compras, impresión, licencias y sincronización LAN/QR móvil.
+- Publicado en el canal oficial de Releases con blockmap para actualizaciones.
+
+### Validación
+
+- 57 pruebas automatizadas, compilación Electron y smoke test completo correctos.
+
 ## v0.2.1 — 15 de julio de 2026
 
 ### Interfaz
