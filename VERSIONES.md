@@ -24,6 +24,16 @@
 - Traducción de navegación, formularios, acciones, estados, mensajes y etiquetas accesibles.
 - 60 pruebas automatizadas, typecheck, build y smoke correctos.
 
+
+# v1.3.2 — 16 de julio de 2026
+
+### Localización por país
+
+- Cada país selecciona automáticamente su idioma y región inicial.
+- Nombres de países, monedas y divisas disponibles en Español, Português e English.
+- El cambio de país o idioma actualiza la interfaz, fechas y moneda inmediatamente.
+- 60 pruebas automatizadas, typecheck, build y smoke correctos.
+
 # Historial de versiones de ArbyPos
 
 Este documento describe el contenido funcional de cada versión pública de ArbyPos.
