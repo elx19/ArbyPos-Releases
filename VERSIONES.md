@@ -47,6 +47,19 @@
 
 - 60 pruebas automatizadas, typecheck, build Electron, smoke y empaquetado NSIS correctos.
 
+
+# v1.3.4 — 17 de julio de 2026
+
+### Corrección regional y capturas
+
+- El guardado del negocio acepta país, idioma y moneda sin rechazar las preferencias regionales.
+- El sitio usa las capturas actuales entregadas de dashboard, login, recuperación y códigos de barras.
+- La captura del ticket queda pendiente de recibir una imagen real de ese flujo.
+
+### Validación
+
+- 60 pruebas automatizadas, typecheck y empaquetado NSIS correctos.
+
 # Historial de versiones de ArbyPos
 
 Este documento describe el contenido funcional de cada versión pública de ArbyPos.
