@@ -101,6 +101,7 @@ JrTech antes de activar una licencia.
 | `v0.2.1` | Disponible | Navegación que vuelve al inicio de cada pantalla y estado neutral cuando todavía no hay productos |
 | `v0.2.2` | Disponible | Documentos legales dentro de Ayuda, instalador Windows actualizado y mejoras acumuladas de operación, licencias, impresión y sincronización |
 | `v0.3.10` | Disponible | Respaldos Google Drive reales, restauración tolerante a desconexiones, validación de stock concurrente, actualización segura y mejoras de sincronización 
+| `v1.3.2` | Disponible | Localización completa por país, idioma automático, nombres de monedas traducidos y cambio instantáneo de formato regional |
 | `v1.3.1` | Disponible | Interfaz completa en Español, Português e English; traducción de formularios, acciones y mensajes; actualización regional Premium |
 | `v1.3.0` | Disponible | Códigos de barras manuales, categorías en Ventas, comprobantes cortos, campana de actualizaciones y configuración regional |
 
