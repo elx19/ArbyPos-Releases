@@ -100,6 +100,7 @@ JrTech antes de activar una licencia.
 | `v0.2.0` | Disponible | Detección automática de PCs, sincronización segura por código privado, POS móvil real, SQLite v15 y nuevo fondo de acceso |
 | `v0.2.1` | Disponible | Navegación que vuelve al inicio de cada pantalla y estado neutral cuando todavía no hay productos |
 | `v0.2.2` | Disponible | Documentos legales dentro de Ayuda, instalador Windows actualizado y mejoras acumuladas de operación, licencias, impresión y sincronización |
+| `v0.3.10` | Disponible | Respaldos Google Drive reales, restauración tolerante a desconexiones, validación de stock concurrente, actualización segura y mejoras de sincronización |
 
 Consulta [VERSIONES.md](VERSIONES.md) para conocer el contenido detallado y las
 correcciones de cada publicación.
@@ -107,10 +108,17 @@ correcciones de cada publicación.
 ## Requisitos
 
 - Windows 10 u 11 de 64 bits.
+- Procesador de 2 núcleos o superior y 4 GB de RAM (8 GB recomendados para varias cajas).
+- Al menos 500 MB libres para instalar ArbyPos, además del espacio requerido por datos y respaldos.
 - Permisos para instalar aplicaciones de escritorio.
 - Impresora configurada en Windows si se utilizará impresión.
+- Internet solo para activación/validación de licencias, recuperación de contraseña, Google Drive y actualizaciones.
 - Para red local y móvil: todos los dispositivos deben estar conectados a la misma
   red privada del negocio.
+
+El POS puede seguir registrando operaciones sin Internet cuando la licencia local esté
+vigente. Para red local o acceso móvil, permite ArbyPos en el Firewall de Windows solo
+para redes privadas.
 
 ## Instalación
 
@@ -154,6 +162,7 @@ PC principal.
 - Comunicación LAN: HTTP local, UDP para descubrimiento y cifrado de extremo a extremo
   entre instalaciones autorizadas.
 - Plataforma de actualizaciones: GitHub Releases.
+- Copias de seguridad locales cifradas y sincronización opcional con Google Drive.
 
 ## Desarrollador y soporte
 

@@ -2,6 +2,27 @@
 
 Este documento describe el contenido funcional de cada versión pública de ArbyPos.
 
+## v0.3.10 — 16 de julio de 2026
+
+### Respaldos y nube
+
+- Los respaldos manuales y programados se suben realmente a Google Drive cuando la cuenta está conectada.
+- Los respaldos locales pendientes se sincronizan al guardar la programación.
+- La restauración conserva una copia de seguridad local aunque Drive esté temporalmente fuera de línea.
+- La pantalla muestra si cada archivo está sincronizado o pendiente.
+
+### Operación segura
+
+- La venta vuelve a comprobar el stock dentro de la transacción para impedir sobreventa entre cajas concurrentes.
+- Dos anulaciones simultáneas de la misma venta ya no pueden duplicar el movimiento de inventario.
+- Una actualización que todavía no está lista no cierra la sesión del usuario.
+- Guardar la programación de respaldos conserva correctamente todo el estado de la pantalla.
+
+### Requisitos y validación
+
+- Windows 10/11 de 64 bits, 4 GB de RAM y 500 MB libres como base; 8 GB y más espacio son recomendables para varias cajas y respaldos.
+- 57 pruebas automatizadas, typecheck, auditoría de dependencias, smoke Electron y empaquetado NSIS verificados.
+
 ## v0.2.2 — 16 de julio de 2026
 
 ### Interfaz y ayuda
