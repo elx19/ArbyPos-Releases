@@ -34,6 +34,19 @@
 - El cambio de país o idioma actualiza la interfaz, fechas y moneda inmediatamente.
 - 60 pruebas automatizadas, typecheck, build y smoke correctos.
 
+
+# v1.3.3 — 17 de julio de 2026
+
+### Sitio y punto de venta
+
+- Sitio público actualizado con las capturas actuales del dashboard y del login; las imágenes antiguas ya no se usan.
+- Catálogo completo de 20 países con banderas, idiomas y monedas precargados.
+- Selector **Categoría** reducido en Ventas para mantener **Escanear o buscar** despejado.
+
+### Validación
+
+- 60 pruebas automatizadas, typecheck, build Electron, smoke y empaquetado NSIS correctos.
+
 # Historial de versiones de ArbyPos
 
 Este documento describe el contenido funcional de cada versión pública de ArbyPos.
