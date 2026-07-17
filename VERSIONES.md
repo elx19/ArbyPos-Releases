@@ -14,6 +14,16 @@
 
 - 59 pruebas automatizadas, typecheck, verificación SQLite y empaquetado NSIS correctos.
 
+
+# v1.3.1 — 16 de julio de 2026
+
+### Internacionalización
+
+- Interfaz completa traducible a Español, Português e English.
+- Idioma disponible desde login y actualizado al guardar preferencias regionales Premium.
+- Traducción de navegación, formularios, acciones, estados, mensajes y etiquetas accesibles.
+- 60 pruebas automatizadas, typecheck, build y smoke correctos.
+
 # Historial de versiones de ArbyPos
 
 Este documento describe el contenido funcional de cada versión pública de ArbyPos.
