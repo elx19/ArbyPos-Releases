@@ -1,3 +1,19 @@
+# v1.3.0 — 16 de julio de 2026
+
+### Novedades
+
+- Generación manual de códigos EAN-13 y CODE128 desde Nuevo producto.
+- Filtro de categorías integrado en Ventas.
+- Comprobantes cortos con formato V-0001.
+- Campana de actualizaciones con acciones Actualizar ahora o Luego.
+- Configuración inicial de país, idioma y moneda con catálogo precargado y banderas.
+- Formato regional aplicado a dashboard, POS, inventario, compras, caja, reportes, terceros y tickets.
+- Migración SQLite v18.
+
+### Validación
+
+- 59 pruebas automatizadas, typecheck, verificación SQLite y empaquetado NSIS correctos.
+
 # Historial de versiones de ArbyPos
 
 Este documento describe el contenido funcional de cada versión pública de ArbyPos.
