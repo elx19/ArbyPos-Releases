@@ -15,11 +15,11 @@ no está disponible.
 
 ### Panel principal
 
-![Panel principal de ArbyPos](assets/arbypos-dashboard-v021.png)
+![Panel principal de ArbyPos](assets/arbypos-dashboard-v132.png)
 
 ### Inicio de sesión
 
-![Inicio de sesión de ArbyPos](assets/arbypos-login-v021.png)
+![Inicio de sesión de ArbyPos](assets/arbypos-login-v132.png)
 
 ## Funciones principales
 
