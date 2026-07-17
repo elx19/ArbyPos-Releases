@@ -100,7 +100,7 @@ JrTech antes de activar una licencia.
 | `v0.2.0` | Disponible | Detección automática de PCs, sincronización segura por código privado, POS móvil real, SQLite v15 y nuevo fondo de acceso |
 | `v0.2.1` | Disponible | Navegación que vuelve al inicio de cada pantalla y estado neutral cuando todavía no hay productos |
 | `v0.2.2` | Disponible | Documentos legales dentro de Ayuda, instalador Windows actualizado y mejoras acumuladas de operación, licencias, impresión y sincronización |
-| `v0.3.10` | Disponible | Respaldos Google Drive reales, restauración tolerante a desconexiones, validación de stock concurrente, actualización segura y mejoras de sincronización |
+| `v0.3.10` | Disponible | Respaldos Google Drive reales, restauración tolerante a desconexiones, validación de stock concurrente, actualización segura y mejoras de sincronización |`n| `v1.3.0` | Disponible | Códigos de barras manuales, categorías en Ventas, comprobantes cortos, campana de actualizaciones y configuración regional |
 
 Consulta [VERSIONES.md](VERSIONES.md) para conocer el contenido detallado y las
 correcciones de cada publicación.
@@ -156,7 +156,7 @@ PC principal.
 
 ## Idioma y tecnología
 
-- Interfaz: español, con formatos monetarios y de fecha para República Dominicana.
+- Interfaz base en español, con país, idioma y moneda configurables desde el primer inicio; los formatos monetarios y de fecha se adaptan a la selección regional.
 - Aplicación de escritorio: Electron, TypeScript y Vue 3.
 - Base de datos local: SQLite.
 - Comunicación LAN: HTTP local, UDP para descubrimiento y cifrado de extremo a extremo
